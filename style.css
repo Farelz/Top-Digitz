@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+}
+
+.navbar {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	background: url(celebrate-celebration-communication-296878.jpg) center no-repeat;
+	background-size: cover;
+	color: #fff;
+	font-size: 2.4rem;
+	height: 100vh;
+	overflow: hidden;
+}
+
+html {
+	font-size: 59.5%;
+}
